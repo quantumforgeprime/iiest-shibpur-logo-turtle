@@ -6,7 +6,7 @@ The project explores how mathematical concepts, geometric shapes and programming
 
 ## 🖼️ Project Preview
 
-![IIEST Shibpur Logo](preview.png)
+![IIEST Shibpur Logo](Preview.png)
 
 ## 🎥 Demonstration
 
